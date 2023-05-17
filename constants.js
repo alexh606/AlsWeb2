@@ -83,9 +83,6 @@ const prompts = [
   // Random for any other user input
   
   const alternative = [
-    "I'm really not that sophisticated"
+    "We don't have time to waste, ask me something more pressing...",
   ]
   
-  // Whatever else you want :)
-  
-  const flag = ["Please stay home", "Wear a mask", "Fortunately, I don't have COVID", "These are uncertain times"]

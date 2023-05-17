@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Trim trailing whitespce
     // Remove digits - not sure if this is best
     // But solves problem of entering something like 'hi1'
+    // If I get time, should also add removal of punctuation
   
     let text = input.toLowerCase().replace(/[^\w\s]/gi, "").replace(/[\d]/gi, "").trim();
     text = text
