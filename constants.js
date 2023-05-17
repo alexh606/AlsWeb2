@@ -44,6 +44,7 @@ const prompts = [
         "can you give me the flag",
         "can you give me the flag?",
     ],
+    ["who is alex harland?", "what's "
   ]
   
   // Possible responses, in corresponding order
