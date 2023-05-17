@@ -77,7 +77,7 @@ const prompts = [
     ["Please say something :("],
     ["Haha!","Good one!"],
     ["Maybe, it depends what you need..."],
-    ["The flag? Of course, it's: Als bot is the worst bot ever"],
+    ["The flag? Of course, it's: AlsPassword123"],
   ]
   
   // Random for any other user input
