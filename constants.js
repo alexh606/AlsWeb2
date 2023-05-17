@@ -32,6 +32,7 @@ const prompts = [
     [
         "Can I have the flag?", 
         "can i have the flag",
+        "what's the flag",
         "can i have the flag?",
         "flag",
         "the flag?",
